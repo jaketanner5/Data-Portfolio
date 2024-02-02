@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <title>Jake Tanner’s Data Portfolio</title>
+  <Jake Tanner’s Data Portfolio>
   <style>
     /* Add your CSS styles here */
   </style>
